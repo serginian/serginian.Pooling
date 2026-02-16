@@ -1,0 +1,25 @@
+{
+  "name": "com.serginian.pooling",
+  "version": "1.0.0",
+  "displayName": "serginian.Pooling",
+  "description": "A lightweight object pooling library for Unity. Built on Unity's native ObjectPool with automatic lifecycle management, particle system support, and one-line setup. Just three focused scripts for efficient GameObject recycling.",
+  "unity": "2021.3",
+  "keywords": [
+    "pooling",
+    "object-pool",
+    "performance",
+    "optimization",
+    "particles",
+    "vfx",
+    "lifecycle",
+    "memory"
+  ],
+  "author": {
+    "name": "serginian",
+    "url": "https://www.serginian.com"
+  },
+  "documentationUrl": "https://github.com/serginian/serginian.Pooling/blob/main/README.md",
+  "changelogUrl": "https://github.com/serginian/serginian.Pooling/blob/main/CHANGELOG.md",
+  "licensesUrl": "https://github.com/serginian/serginian.Pooling/blob/main/LICENSE",
+  "type": "library"
+}
